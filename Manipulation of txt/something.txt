@@ -1,1 +1,2 @@
-You reset the txt and show you new text
+Reset text or create new file
+What you want append
